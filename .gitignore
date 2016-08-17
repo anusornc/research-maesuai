@@ -1,2 +1,2 @@
-#no *.xxx~ files
-docs/*.*~
+#ignore all files in the docs directory
+docs/
